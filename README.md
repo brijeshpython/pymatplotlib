@@ -1,7 +1,7 @@
-# pymatplotlib
+ # pymatplotlib
 Learnng python matplotlib for data visualization.
 
---Create new enviornemtn in Anaconda.
+--Create new enviornemtn in Anaconda. \n
 	conda create --name pymatplotlib
 
 --Activate this new enviornment.
