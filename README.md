@@ -1,17 +1,17 @@
  # pymatplotlib
 Learnng python matplotlib for data visualization.
 
---Create new enviornemtn in Anaconda. \n
-	conda create --name pymatplotlib
+--Create new enviornemtn in Anaconda. </br>
+	conda create --name pymatplotlib </br>
 
---Activate this new enviornment.
-	conda activate pymatplotlib
+--Activate this new enviornment. </br>
+	conda activate pymatplotlib </br>
 
---Install jupyter notebook
-	conda install jupyter
+--Install jupyter notebook </br>
+	conda install jupyter </br>
 
---Install matplotlib module
-	conda install -c conda-forge matplotlib
+--Install matplotlib module </br>
+	conda install -c conda-forge matplotlib </br>
 
---Run jupyter notebook
-	juyper-notebook
+--Run jupyter notebook </br>
+	juyper-notebook </br>
